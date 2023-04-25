@@ -1,14 +1,14 @@
-@import "golbal/golbal.css";
-@import "utilidades/tipografia.css";
-@import "utilidades/cores.css";
+@import "./global/global.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
 
-@import "golbal/header.css";
+@import "./global/header.css";
 
-    /* UTILIDADES */
-@import "utilidades/componentes.css";
+/* Utilidades */
+@import "./utilidades/componentes.css";
 
-    /* HOME */
-@import "home/introducao.css";
+/* Home */
+@import "./home/introducao.css";
 
-    /* Bicicletas */
-@import "bicicletas/bicicletas-lista.css";
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
